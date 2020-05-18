@@ -1,0 +1,20 @@
+{
+  "translations": {
+    "Language": "Language",
+    "Me": "Me",
+    "English": "English",
+    "French": "French",
+    "Manage_Campaigns": "Manage Campaigns",
+    "Upcoming_Campaigns":"Upcoming Campaigns",
+    "Live_Campaigns":"Live Campaigns",
+    "Past_Campaigns":"Past Campaigns",
+    "Date":"Date",
+    "Campaign":"Campaign",
+    "View":"View",
+    "Actions":"Actions",
+    "View_Pricing":"View Pricing",
+    "CSV":"CSV",
+    "Report":"Report",
+    "Schedule_Again":"Schedule Again"
+    }
+}
